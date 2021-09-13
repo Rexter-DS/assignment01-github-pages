@@ -2,7 +2,7 @@
 
 ## Deployed Link
 
-https://honushield.meteorapp.com/#/
+[honushield](https://honushield.meteorapp.com/#/)
 
 ## Team Members
 
